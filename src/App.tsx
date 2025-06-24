@@ -1,10 +1,10 @@
+import { NavBar } from './components'
+
 function App() {
 	return (
 		<>
-			<div className='flex-col justify-center gap-2.5'>
-				<h1 className='text-2xl'>My fitness project</h1>
-				<p className='font-montserrat'>Текст с Montserrat</p>
-				<p className='font-dmsans'>Текст с DM Sans</p>
+			<div className='app text-gray-500 bg-gray-50'>
+				<NavBar />
 			</div>
 		</>
 	)

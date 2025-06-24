@@ -1,5 +1,5 @@
 type Props = {}
 
-export const Nav = (props: Props) => {
+export const NavBar = (props: Props) => {
 	return <div>Nav</div>
 }
