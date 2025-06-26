@@ -1,5 +1,6 @@
-@import 'tailwindcss';
+@import '@/styles/components.css';
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,100..1000;1,100..1000&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import 'tailwindcss';
 
 @import 'tailwindcss';
 
